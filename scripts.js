@@ -35,8 +35,8 @@ function Showing(data) {
         <span class="green">${vote_average} ⭐</span>
       </div>
       <div class="overview">
-      <a href="#"><i class="fa fa-play" aria-hidden="true"></i></a>
-      <a href="#">🎬</a>
+      <a href="https://fmoviesto.cc/movie/black-widow-2021-full-66666"><i class="fa fa-play" aria-hidden="true"></i></a>
+      <a href="https://www.imdb.com/title/tt9777666/?ref_=nv_sr_srsg_0">🎬</a>
 
       </div>   
       </div>
